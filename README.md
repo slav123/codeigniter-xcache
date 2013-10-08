@@ -22,7 +22,9 @@ and use as it
 
 Due to XCache limitations You can’t store objects in cache, but you can serialize them before saving :)
 
-##support
+##Support
+To read more about XCache Caching functions please check out [XCache API docs](http://xcache.lighttpd.net/wiki/XcacheApi#Cacher)
+
 If you have any questions or comments, please leave them here (github) or visit this page:
 
 [www.spidersoft.com.au/projects/xcache-driver-codeigniter](http://www.spidersoft.com.au/projects/xcache-driver-codeigniter/)
